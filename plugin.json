@@ -1,0 +1,15 @@
+{
+    "type": "panel",
+    "name": "clockplugin",
+    "id": "zzphamvanthanhzz-clockplugin-panel",
+    "info": {
+        "author": {
+            "name": "thanhpv",
+            "url": "github.com/zzphamvanthanhzz"
+        }
+    },
+    "dependencies": {
+        "grafanaversion": "4.x.x"
+        "plugins": []
+    }
+}
